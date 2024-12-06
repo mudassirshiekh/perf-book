@@ -10,7 +10,7 @@ This is a repository with source files of the book "Performance Analysis and Tun
 My goal is to accumulate as much knowledge as possible from all the best experts in the industry. And of course, share that knowledge with you. Contributions are welcome.
 
 # Contributing
-
+# By Mudassir Alam
 There are many ways how you can help.
 - You can author a section(s) on a topic on which you are expert; let me know before you start.
 - Small improvements are welcome without prior approval; just open a new PR.
